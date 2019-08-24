@@ -1,0 +1,22 @@
+.selected{
+    background: springgreen !important;
+    color: brown;
+}
+.movies{
+    background: chocolate;
+    padding: 0.5em 1em 0.5em 1.5em;
+    margin: 1em;
+    max-width: 16em;
+}
+
+.movies .movieListItem{
+    font-size: 0.875em;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background: cornflowerblue;
+    padding: 0.3em;
+    margin: 0.2em;
+    text-align: left;
+}
+.details{
+    background: cornflowerblue;
+}
